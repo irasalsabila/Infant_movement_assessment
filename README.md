@@ -127,3 +127,4 @@ Run `notebooks/visualize_pose_model_error.ipynb`
 
 Performance is quantified by the RMSE, precision, and recall.  
 We compute RMSE normalized by bounding box size. RMSE is computed only for key points which are both in the ground truth data set and model predictions.  
+# Infant_movement_assessment
